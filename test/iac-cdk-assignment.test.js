@@ -3,7 +3,7 @@
 // const IacCdkAssignment = require('../lib/iac-cdk-assignment-stack');
 
 // example test. To run these tests, uncomment this file along with the
-// example resource in lib/iac-cdk-assignment-stack.js
+// example resource in lib/iac-cdk-assignment-stack-vpc.js
 test('SQS Queue Created', () => {
 //   const app = new cdk.App();
 //   // WHEN
